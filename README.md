@@ -1,13 +1,6 @@
 # 🚀 Bienvenido a mi Repositorio
 
-¡Hola! 👋 Soy [Tu Nombre], un apasionado programador, y este es mi repositorio donde comparto mis proyectos y contribuciones al mundo del desarrollo de software. ¡Espero que encuentres algo interesante aquí!
-
----
-
-## 📌 Sobre el Proyecto
-
-Este repositorio contiene [breve descripción del proyecto]. Aquí podrás encontrar [qué ofrece el proyecto, su propósito, etc.]. ¡Siéntete libre de explorar, clonar y contribuir!
-
+¡Hola! 👋 Soy Eder, un apasionado programador, y este es mi repositorio donde comparto mis proyectos y contribuciones al mundo del desarrollo de software. ¡Espero que encuentres algo interesante aquí!
 ---
 
 ## 🛠 Tecnologías Utilizadas
