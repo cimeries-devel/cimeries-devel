@@ -23,6 +23,6 @@ Aquí están las principales tecnologías y herramientas que utilizo en este pro
 - **Herramientas de Desarrollo**: 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kate](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=kate-text-editor&logoColor=white)
+  ![Kate](https://img.shields.io/badge/Kate-007ACC?style=for-the-badge&logo=kate-text-editor&logoColor=white)
 
 --
